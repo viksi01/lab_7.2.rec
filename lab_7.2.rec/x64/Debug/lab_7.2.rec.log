@@ -1,0 +1,4 @@
+﻿  lab_7.2.rec.cpp
+D:\НУЛП\АП\lab_7.2.rec\lab_7.2.rec\lab_7.2.rec.cpp(112,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\НУЛП\АП\lab_7.2.rec\lab_7.2.rec\lab_7.2.rec.cpp(64): warning C4715: 'Max': not all control paths return a value
+  lab_7.2.rec.vcxproj -> D:\НУЛП\АП\lab_7.2.rec\x64\Debug\lab_7.2.rec.exe
